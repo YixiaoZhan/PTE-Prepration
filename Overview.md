@@ -1,6 +1,4 @@
 #<center> PTE Test Format </center>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-####<center> Written by Yixiao Zhan</center>
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -124,4 +122,14 @@ After listening to a recording of a sentence, repeat the sentence.
 **Tips:**
 - Listen to the phrasing of the sentence as it read aloud
 - Copy the stress and intonation patterns of the sentence you hear
- 
+
+<br/>
+
+**Scoring:**
+
+- **Content:** Does your response include all the words in the reading text and only these words 
+
+- **Oral fluency:** Does your response demonstrate a smooth, effort-less and natural rate of speech?
+- **Pronunciation** Does your response demonstrate your ability to produce speech in a similar way to most regular speakers of the language? 
+
+<br/>

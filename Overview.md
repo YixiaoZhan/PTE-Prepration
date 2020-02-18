@@ -132,5 +132,3 @@ After listening to a recording of a sentence, repeat the sentence.
 - **Oral fluency:** Does your response demonstrate a smooth, effort-less and natural rate of speech?
 - **Pronunciation** Does your response demonstrate your ability to produce speech in a similar way to most regular speakers of the language? 
 
-<br/>
-<br/>
